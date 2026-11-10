@@ -9,3 +9,5 @@
 
 .masthead>.presentation-button{margin-left:auto}
 .all-series{justify-content:flex-start;margin:18px 0;gap:10px}.all-series .toggle.on .switch{background:var(--series-color)}.all-series .toggle.on{border-color:var(--series-color)}.cost-basis{display:flex;gap:10px;align-items:center;font-size:11px;color:var(--muted);margin-bottom:14px}.cost-basis select{font:inherit;color:#15171c;border:1px solid #d2d7de;background:white;border-radius:5px;padding:6px 9px}.cost-basis select:focus-visible{outline:3px solid #2563b0;outline-offset:3px}.result-label{font:600 12px 'Hanken Grotesk',sans-serif;fill:#157a38;paint-order:stroke;stroke:white;stroke-width:4px}.empty-series{text-align:center;font-size:13px;padding:12px;background:#f8f9fb;border-radius:6px}.historical-panel .chart-detail{gap:12px 22px}
+
+.priorities-title{margin-bottom:22px;font-size:25px}
