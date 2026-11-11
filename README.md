@@ -27,3 +27,7 @@ npm run build
 
 Datos: `data.js`. Contenido e interacción: `src.jsx`. Estilos: `style.css`.
 Cada push a main compila y publica `dist` mediante GitHub Actions en Pages. `base: './'` permite alojar bajo el nombre del repositorio. Los PPTX completos permanecen fuera del repositorio.
+
+## Pantalla de acceso
+
+Acceso visual mediante contraseña, con verificación SHA-256 en el navegador y sesión por pestaña. La contraseña no se guarda en texto plano en el código. Este bloqueo cliente no protege el código, las imágenes ni los datos públicos de GitHub Pages; no constituye autenticación de servidor.
