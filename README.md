@@ -4,7 +4,11 @@ Presentación interactiva para la conversación de Dirección General de SM Méx
 
 ## Uso
 
-Ocho vistas agrupadas en cinco capítulos. Navegación inferior, pestañas de capítulos o teclas izquierda/derecha. Modo presentación reduce la cabecera. Gráfica histórica única con cinco interruptores independientes: venta privada, institucional, costo relativo, personas y resultado después de impuestos. Selector separado de base del costo (venta total o privada), selección de año y tabla accesible. Mercado por segmento, reloj de arena seleccionable, capas de servicios e incentivos Smart/Core. Adaptación móvil y preferencia de movimiento reducido.
+Nueve vistas agrupadas en seis capítulos. Navegación inferior, pestañas de capítulos o teclas izquierda/derecha. Modo presentación reduce la cabecera. Gráfica histórica única con cinco interruptores independientes: venta privada, institucional, costo relativo, personas y resultado después de impuestos. Selector separado de base del costo (venta total o privada), selección de año y tabla accesible. Mercado por segmento, reloj de arena seleccionable, capas de servicios e incentivos Smart/Core. Adaptación móvil y preferencia de movimiento reducido.
+
+## Operación
+
+Capítulo añadido a partir de información proporcionada por el usuario: comités de Dirección, Negocio, LIJ, Compras y Operaciones, cada uno con frecuencias, KPIs y responsables establecidos. No se asignan periodicidades concretas, indicadores específicos ni nombres que no se hayan proporcionado.
 
 ## Fuentes y límites
 
