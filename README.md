@@ -4,7 +4,7 @@ Presentación interactiva para la conversación de Dirección General de SM Méx
 
 ## Uso
 
-Nueve vistas agrupadas en seis capítulos. Navegación inferior, pestañas de capítulos o teclas izquierda/derecha. Modo presentación reduce la cabecera. Gráfica histórica única con cinco interruptores independientes: venta privada, institucional, costo relativo, personas y resultado después de impuestos. Selector separado de base del costo (venta total o privada), selección de año y tabla accesible. Mercado por segmento, reloj de arena seleccionable, capas de servicios e incentivos Smart/Core. Adaptación móvil y preferencia de movimiento reducido.
+Doce vistas agrupadas en seis capítulos. Navegación inferior, pestañas de capítulos o teclas izquierda/derecha. Modo presentación reduce la cabecera. Gráfica histórica única con cinco interruptores independientes: venta privada, institucional, costo relativo, personas y resultado después de impuestos. Selector separado de base del costo (venta total o privada), selección de año y tabla accesible. Mercado por segmento, reloj de arena seleccionable, capas de servicios e incentivos Smart/Core. Adaptación móvil y preferencia de movimiento reducido.
 
 ## Operación
 
@@ -19,7 +19,7 @@ Capítulo añadido a partir de información proporcionada por el usuario: comit�
 - El rango de texto tradicional incluye del colegio y privado popular. Vivo SM 1.0 se mantiene como referencia adicional al total de soluciones 24.5. Idiomas publica 83.7 frente a una suma de componentes de 83.6.
 - Crecimiento privado 2021–2026: 43.9%; HC: −26.0%; costo/venta privada: 50.8% a 42.6%. Se evitan multiplicadores y porcentajes de los titulares originales que no pueden reproducirse con las cifras redondeadas.
 - 4,400+ servicios es una meta del plan. Asignación de asesores y cobertura son cambios previstos.
-- La fuente contempla bonificaciones Smart/Core sin pesos ni fórmulas. Los criterios diferenciados se presentan como propuesta. El cierre de pertenencia es una recomendación narrativa, no un resultado medido.
+- La compensación SMART y CORE se detalla en tres vistas adicionales basadas en SIMPLE Compensación variable comercial 2027. Se distinguen pesos, umbrales, evidencias y condiciones; el cierre de pertenencia es una recomendación narrativa, no un resultado medido.
 
 ## Desarrollo y publicación
 
@@ -39,3 +39,7 @@ Acceso visual mediante contraseña, con verificación SHA-256 en el navegador y 
 ## Captura ilustrativa de comités
 
 `public/assets/comites-tablero-simulado.png` es una captura de una reproducción local del tablero, construida con su estructura visual observada, su CSS y su logo públicos. Todos los indicadores, estados y porcentajes fueron sustituidos por información simulada. Se omiten perfiles personales y comités fuera del alcance de la presentación. No se modificaron registros en PRO-Comités SM.
+
+## Compensación variable 2027
+
+Síntesis de 22 diapositivas en tres vistas adicionales: SMART (1–10), CORE (11–17), aceleradores y condiciones (18–22). SMART es 10% y CORE 20% del sueldo anual cobrado según diapositivas 1, 9 y 17; la expresión “10% del bono” de la diapositiva 2 se interpreta con esas bases explícitas. Ejemplo SMART: la fuente paga $26,375 tras redondeo intermedio; sin ese redondeo resulta $26,385, diferencia mostrada en el detalle. Escala de visitas conserva “>80%”; el 80% exacto y la precisión de los intervalos quedan sin resolver. No se ofrece calculadora de nómina. Abril de 2028 para CORE, aceleradores y premios fue confirmado expresamente por el usuario.
