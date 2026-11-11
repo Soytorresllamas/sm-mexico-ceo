@@ -8,7 +8,7 @@ Nueve vistas agrupadas en seis capítulos. Navegación inferior, pestañas de ca
 
 ## Operación
 
-Capítulo añadido a partir de información proporcionada por el usuario: comités de Dirección, Negocio, LIJ, Compras y Operaciones, cada uno con frecuencias, KPIs y responsables establecidos. No se asignan periodicidades concretas, indicadores específicos ni nombres que no se hayan proporcionado.
+Capítulo añadido a partir de información proporcionada por el usuario: comités de Dirección, Negocio, LIJ, Compras, Operaciones y Tecnología, cada uno con frecuencias, KPIs y responsables establecidos. No se asignan periodicidades concretas, indicadores específicos ni nombres que no se hayan proporcionado.
 
 ## Fuentes y límites
 
@@ -35,3 +35,7 @@ Cada push a main compila y publica `dist` mediante GitHub Actions en Pages. `bas
 ## Pantalla de acceso
 
 Acceso visual mediante contraseña, con verificación SHA-256 en el navegador y sesión por pestaña. La contraseña no se guarda en texto plano en el código. Este bloqueo cliente no protege el código, las imágenes ni los datos públicos de GitHub Pages; no constituye autenticación de servidor.
+
+## Captura ilustrativa de comités
+
+`public/assets/comites-tablero-simulado.png` es una captura de una reproducción local del tablero, construida con su estructura visual observada, su CSS y su logo públicos. Todos los indicadores, estados y porcentajes fueron sustituidos por información simulada. Se omiten perfiles personales y comités fuera del alcance de la presentación. No se modificaron registros en PRO-Comités SM.
